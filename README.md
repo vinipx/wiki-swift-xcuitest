@@ -14,8 +14,8 @@ XCTest is the unit testing framework by Apple.
 - The developers creating these test cases are quite familiar with these languages because they've created the app in the same language.
 
 #### Disadvantages
-- XCTest can't be used to test cross-mobile apps written in React Native. These apps have a common code base and run on both iPhone and Android devices. Other popular testing frameworks, like Appium, aren't restricted in this way. In our earlier post, we tested a React Native app with Appium.
-- XCTest doesn't run well on real connected devices.
+- XCTest can't be used to test cross-mobile apps written in React Native. 
+- XCTest is focused on unit testing of iOS apps.
 
 ### XCUITest
 
